@@ -59,7 +59,8 @@ datasummary(growth+rgdp60~treat*(Mean+Median+SD+Min+Max), data=GrowthSW)
 ```
 
 **Designated place**: type one or two sentences describing this table of a fellow student below. For example, comment on the mean and median growth of both groups. Then stage, commit and push it to their github repository. 
-
+In the table of Berk, the max and min values for countries that have 0 revolutions are 6.65 and 0.42 respectively for growth, and for the coutries that have more than 0 revolutions, the max and min values are 7.16 and -2.81 respectively for growth, which shows that countires whith 0 revolutions have less growth rate than the ones with more revolutions since 7.16>6.65, and the min value of  countries with no revolutions is less than the ones that have more revolutions since -2.81<0.42. 
+comment by Yasemin EFE.
 
 ### Part 3: Make a table summarizing reressions using modelsummary and kable
 
